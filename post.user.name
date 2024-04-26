@@ -1,0 +1,11 @@
+=> 
+[32m#<Post:0x00007efc961ae908[0m
+ id: [34m[1m2[0m,
+ title: [31m[1m"[0m[31mExample Post[0m[31m[1m"[0m,
+ content: [31m[1m"[0m[31mThis is an example post.[0m[31m[1m"[0m,
+ published_at: Mon, 22 Aug 2022 00:00:00.000000000 UTC +00:00,
+ answers_count: [34m[1m5[0m,
+ likes_count: [34m[1m10[0m,
+ created_at: Fri, 26 Apr 2024 21:19:47.940596000 UTC +00:00,
+ updated_at: Fri, 26 Apr 2024 21:19:47.940596000 UTC +00:00,
+ user_id: [34m[1m2[0m[32m>[0m
